@@ -1,0 +1,3 @@
+[submodule "movie_data_scraper"]
+	path = movie_data_scraper
+	url = https://github.com/frankieeder/movie_data_scraper.git
